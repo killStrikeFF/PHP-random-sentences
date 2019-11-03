@@ -1,0 +1,15 @@
+.textContainer {
+    display: block;
+    width: 100%;
+}
+
+.massiveText {
+    display: none;
+}
+
+.textCont {
+    display: block;
+    width: 1000px;
+    height: 50px;
+    border: none;
+}
