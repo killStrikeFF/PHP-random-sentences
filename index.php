@@ -1,9 +1,6 @@
 <?php
     include_once "test.php";
 
-
-
-
 ?>
 
     <!doctype html>
